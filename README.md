@@ -7,7 +7,7 @@ I'm a self-motivated Data Scientist always eager to face creative challenges whi
 **CHARACTERISTICS:**  
 * Passionate, open-minded, calm and composed at all times.
 * Good communication skills, social and professional alike.  
-* Capable of swiftly adapting to any new concept.
+* Capable of swiftly adapting to any new problem.
 * Optimistic and creative, yet also objective when necessary.
 
 **TOP SKILLS:**  
