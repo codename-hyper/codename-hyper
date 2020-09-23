@@ -3,7 +3,7 @@
 **WHO AM I?**  
 I'm a self-motivated Data Scientist always eager to face creative challenges which can help me grow as a professional, and as a person.
 
-						I LOVE TO MAKE THE DATA TELL A STORY
+							I LOVE TO PLAY WITH DATA
 **CHARACTERISTICS:**  
 * Passionate, open-minded, calm and composed at all times.
 * Good communication skills, social and professional alike.  
