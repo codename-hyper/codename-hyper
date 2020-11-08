@@ -29,3 +29,4 @@ I'm a self-motivated Data Scientist always eager to face creative challenges whi
 * **Docker** to create, deploy and, run applications using containers.  
 * **Hadoop** framework for storing and processing big data.
 * **OpenCV** for solving problems related to computer vision.
+* **spaCy** for solving problems related to NLP.
