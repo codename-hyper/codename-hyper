@@ -30,3 +30,4 @@ I'm a self-motivated Data Scientist always eager to face creative challenges whi
 * **Hadoop** framework for storing and processing big data.
 * **OpenCV** for solving problems related to computer vision.
 * **spaCy** for solving problems related to NLP.
+* **TensorFlow** Experienced in utilizing TensorFlow for creating ANN, CNN and RNN to solve machine learning problems.
