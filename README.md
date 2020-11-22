@@ -23,7 +23,7 @@ I'm a self-motivated Data Scientist always eager to face creative challenges whi
 * **Matplotlib** for visualizing the dataframe by doing plots for EDA.
 * **Seaborn** for doing plots to visualize dataframe / cluster relations.
 * **Sklearn** for building models, clusters and, tuning model.
-* **Pymongo** and **sqlite3** libraries to do CRUD operations on NoSQL and SQL databases respectively.  
+* **Pymongo** and **MySQL** libraries to do CRUD operations on NoSQL and SQL databases respectively.  
 * **Flask** framework for creating, debugging API and, doing slight UI work with HTML.
 * **requests**, **urllib**, **BeautifulSoup** and, **webdriver** libraries to Scrap the web for data.
 * **Docker** to create, deploy and, run applications using containers.  
